@@ -1,0 +1,52 @@
+.img {
+    position: absolute;
+    z-index: 1;
+    width: 1440px;
+    height: 1004px;
+    flex-shrink: 0;
+}
+
+.logo {
+    position: relative;
+    z-index: 2;
+    width: 1440px;
+    top: 40px;
+    max-height: 964px;
+}
+
+.coming {
+    width: 1440px;
+    height: 1000px;
+    flex-shrink: 0;
+}
+
+.coming h3 {
+    color: rgba(252, 252, 252, 0.20);
+    font-family: "Nanum Gothic";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 25.6px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 3;
+    left: 711px;
+    top: -460px;
+
+}
+
+.coming p {
+    color: rgba(252, 252, 252, 0.20);
+    font-family: "Nanum Gothic";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 25.6px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 3;
+    top: -390px;
+    left: 630px;
+}
